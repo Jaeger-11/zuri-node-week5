@@ -1,7 +1,7 @@
 {
   "name": "Booking-Flight-API-Zuri",
   "version": "1.0.0",
-  "description": "Zuri-Node-Week6-Taskv",
+  "description": "Zuri-Node-Week6-Task",
   "main": "app.js",
   "scripts": {
     "start": "node index.js",
@@ -11,7 +11,6 @@
   "author": "Oluwadamilola Falodun",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1"
   },
